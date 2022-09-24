@@ -10,3 +10,4 @@ echo "此脚本运行在$HOST"
 # 此脚本运行在LAPTOP-F0L9HRH8
 
 # 这个脚本使用$直接获取命令执行结果并将其值赋给变量。
+# This script uses $ to get the command execution result directly and assign its value to a variable.

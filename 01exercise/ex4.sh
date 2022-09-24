@@ -18,8 +18,9 @@ if [ -w "$FILE" ]
 fi 
 
 # 输出结果如下：
-# $ bash ex4.sh 
-# 文件E:\运维学习\shell-scripting\01exercise\READEME 已存在
-# 你有权编辑此文件：E:\运维学习\shell-scripting\01exercise\READEME
+# $ ./ex4.sh 
+# 文件READEME 已存在
+# 你有权编辑此文件：READEME
 
 # 此题目练习了if-then-else分支语句语法，并且测试了文件权限。
+# This exercise practiced if-then-else branch statement syntax and tested file permissions.
